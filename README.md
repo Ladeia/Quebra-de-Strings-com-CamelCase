@@ -1,0 +1,1 @@
+# Quebra-de-Strings-com-CamelCase
